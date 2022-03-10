@@ -1,0 +1,14 @@
+.errors {
+  display: inline-block;
+  color: red;
+  margin-left: 2px;
+}
+
+.inputItem input {
+  width: 250px;
+  height: 20px;
+}
+.checkbox {
+  width: 20px;
+  height: 20px;
+}

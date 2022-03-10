@@ -1,0 +1,25 @@
+.dialogs{
+	display: grid;
+	grid-template-columns: 1fr 10fr; 
+}
+.dialogsItems{
+	padding:10px;
+	background-color: grey;
+}
+.dialogsItems.active{
+	color: red;
+}
+.messages{
+	padding:10px;
+	background-color: Violet;
+}
+.messages img{
+	width: 35px;
+}
+.formControl{
+	color: red;
+	
+}
+.errors{
+	border: solid red 2px;
+}

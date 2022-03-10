@@ -1,0 +1,6 @@
+.footer{
+	grid-area: k;
+	background-color: orange;
+	border: 0.5px solid #333;
+}
+

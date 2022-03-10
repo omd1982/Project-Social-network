@@ -1,0 +1,13 @@
+.postsBlosk{
+	padding: 10px;
+}
+.posts{
+	margin-top: 10px;
+}
+.formControl{
+	color: red;
+	
+}
+.errors{
+	border: solid red 2px;
+}
